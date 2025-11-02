@@ -12,5 +12,5 @@ A JavaFX application using gradle that visualizes various sorting algorithms in 
 - Radix Sort
 
 ## How to Run
-'''bash
+```bash
 ./gradlew run
